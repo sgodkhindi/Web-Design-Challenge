@@ -42,7 +42,7 @@ Large screen:
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](Images/LandingSmall.png)
 
 #### <a id="comparisons-page"></a>Comparisons page
 
