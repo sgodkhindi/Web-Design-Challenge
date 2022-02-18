@@ -38,7 +38,7 @@ This section contains screenshots of each page created:
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![Landing page large screen](Images/LandingPage.png)
 
 Small screen:
 
