@@ -1,16 +1,18 @@
 # Web-Design-Challenge
 
-This repository contains my solution of the Web Design Homework  - Web Visualization Dashboard (Latitude) of the GATECH Data Science and Analytics Bootcamp.
+This repository contains my solution of the Web Design Challenge  - Web Visualization Dashboard (Latitude Analysis) for the GATECH Data Analytics &  Data Science Bootcamp.
 
+### Launch Website
 [Click here to access the website deployed using GitHub pages](https://sgodkhindi.github.io/Web-Design-Challenge/)
 
+### Project Description
 The requirements were to create a website that consists of 7 pages in total:
 
 - A [landing page](#landing-page) containing:
 * An explanation of the project.
 * Links to each visualizations page with a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
-- Four [visualization pages](#visualization-pages), each with:
+- There are 4 (Four) [visualization pages](#visualization-pages), each with:
 * A descriptive title and heading tag.
 * The plot/visualization itself for the selected comparison.
 * A paragraph describing the plot and its significance.
