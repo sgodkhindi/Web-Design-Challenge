@@ -2,7 +2,7 @@
 
 This repository contains my solution of the Web Design Homework  - Web Visualization Dashboard (Latitude) of the GATECH Data Science and Analytics Bootcamp.
 
-[Click here to access the website deployed using GitHub pages](https://nazihzaz.github.io/Web-Design-Challenge/)
+[Click here to access the website deployed using GitHub pages](https://sgodkhindi.github.io/Web-Design-Challenge/)
 
 The requirements were to create a website that consists of 7 pages in total:
 
